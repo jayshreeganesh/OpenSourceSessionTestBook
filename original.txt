@@ -15,4 +15,5 @@ How to do your changes
 1. Create your own branch - git branch branchName
 2. Jump on to your branch - git checkout branchName
 3. do the changes
-4. 
+4. Stage the changes - git add.
+5. Commit - git commit -m "Rohan Changes"
