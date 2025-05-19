@@ -1,3 +1,18 @@
 abcdjhj
 Hi this code is written by Vrushali
 Hi I am Rohans
+
+Steps to create new Repo
+1. git init
+2. git add.
+3. git commit -m "First commit'
+4. Copy paste the changes after creating the new repo
+git remote add origin https://github.com/jayshreeganesh/New-Repo.git
+git branch -M main
+git push -u origin main
+
+How to do your changes
+1. Create your own branch - git branch branchName
+2. Jump on to your branch - git checkout branchName
+3. do the changes
+4. 
